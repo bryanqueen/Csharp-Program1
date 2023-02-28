@@ -12,8 +12,8 @@ namespace Assignment1
             string before = "before";
             string after = "after"
             int sumScore = playerScore + levelScore;
-            Console.Writeline(playerName + " " + hasScore + " " + before + " " + ":" + playerScore);
-            Console.Writeline(playerName + " " + hasScore + " " + before + " " + ":" + sumScore);
+            Console.WriteLine(playerName + " " + hasScore + " " + before + " " + ":" + playerScore);
+            Console.WriteLine(playerName + " " + hasScore + " " + before + " " + ":" + sumScore);
         }
     }
 }
