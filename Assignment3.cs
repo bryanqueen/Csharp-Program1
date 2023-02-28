@@ -10,11 +10,11 @@ namespace Assignment3
             string Hometown = "Ezinifite";
             string Favorite_color = "red";
             bool likes_rock_music = false;
-            Console.Writeline(Name);
-            Console.Writeline(Age);
-            Console.Writeline(Hometown);
-            Console.Writeline(Favorite_color);
-            Console.Writeline(likes_rock_music);
+            Console.WriteLine(Name);
+            Console.WriteLine(Age);
+            Console.WriteLine(Hometown);
+            Console.WriteLine(Favorite_color);
+            Console.WriteLine(likes_rock_music);
         }
     }
 }
