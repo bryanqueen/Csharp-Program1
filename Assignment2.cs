@@ -10,8 +10,8 @@ namespace Assignment2
             float multiplier = 0.5f;
             float divided_x = x * multiplier;
             float divided_y = y * multiplier;
-            Console.Writeline(divided_x);
-            Console.Writeline(divided_y) 
+            Console.WriteLine(divided_x);
+            Console.WriteLine(divided_y) 
        } 
     }
 }
