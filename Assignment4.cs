@@ -8,8 +8,8 @@ namespace Assignment4
             string firstName = "Daniel";
             string lastName = "Umeh";
             string fullName = firstName + " " + lastName;
-            Console.Writeline(firstName);
-            Console.Writeline(fullName)
+            Console.WriteLine(firstName);
+            Console.WriteLine(fullName)
         }
     }
 }
